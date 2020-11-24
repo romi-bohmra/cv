@@ -52,7 +52,7 @@ a:hover{
 .coffee{
   position: absolute;
   top: 300px;
-  right: 510px;
+  right: auto;
 
 }
 .laptop{
