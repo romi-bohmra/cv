@@ -1,0 +1,139 @@
+
+body {
+text-align: center;
+margin: 0;
+padding: 0;
+background-color: #EAF6F6;
+font-family: sans-serif;
+
+
+}
+hr{
+  border: dotted #E0E0E0 6px;
+  border-bottom: none;
+  width: 10%;
+  margin: 50px auto;
+}
+h1
+{
+
+  font-family: 'Sacramento', cursive;
+  font-size: 80px;
+  line-height: 1px;
+}
+h2{
+  font-family: 'Alef', sans-serif;
+  color: #66BFBF;
+  margin: 5px;
+}
+h3{
+  font-family: 'Alef', sans-serif;
+  color: #66BFBF;
+  line-height: 5px;
+}
+
+p
+{
+
+  font-family: 'Alef', sans-serif;
+  line-height: normal;
+
+}
+a:hover{
+  color: #EAF6F6
+}
+
+.top-container{
+
+  margin: 0;
+  border: 0;
+  padding-top: 150px;
+}
+.coffee{
+  position: absolute;
+  top: 300px;
+  right: 510px;
+
+}
+.laptop{
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.diary{
+  position: absolute;
+  left: 0;
+  top: 330px;
+
+}
+.pot {
+  position: absolute;
+  right: 0;
+  top: 395px;
+
+}
+.teapot{
+  position: relative;
+  left: 550px;
+bottom: 60px;
+
+
+}
+.notepad{
+  position: absolute;
+  right: 0;
+  top: 0;
+}
+.middle-container{
+  padding-top: 200px;
+  padding-left: 60px;
+  padding-right: 40px;
+}
+
+.pro{
+  float: left;
+  padding: 50px;
+}
+.pcb{
+  float: right;
+  padding: 50px;
+}
+.emb{
+  float: left;
+  padding: 50px;
+}
+.cook{
+  float: right;
+  padding: 50px;
+
+}
+.skill-row{
+  text-align: justify;
+}
+.skill-row-first{
+  text-align: left;
+}
+.skill-row-second{
+  text-align: right;
+}
+.skill-row-third{
+  text-align: left;
+}
+.skill-row-fourth{
+  text-align: right;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 30px 0 10px;
+}
+.footer-link{
+  color: #11999E;
+  font-family: 'Alef', sans-serif;
+  margin: 10px 5px;
+ text-decoration: none;
+}
+.copyright{
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
