@@ -12,7 +12,7 @@ hr{
   border: dotted #E0E0E0 6px;
   border-bottom: none;
   width: 10%;
-  margin: 50px auto;
+  margin: 50px auto 50px auto;
 }
 h1
 {
@@ -50,9 +50,9 @@ a:hover{
   padding-top: 150px;
 }
 .coffee{
-  position: absolute;
-  top: 300px;
-  right: auto;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
 
 }
 .laptop{
@@ -63,19 +63,19 @@ a:hover{
 .diary{
   position: absolute;
   left: 0;
-  top: 330px;
+  bottom: 0;
 
 }
 .pot {
   position: absolute;
   right: 0;
-  top: 395px;
+  bottom: 0;
 
 }
 .teapot{
-  position: relative;
-  left: 550px;
-bottom: 60px;
+  position: absolute;
+  right: 0;
+bottom: 200px;
 
 
 }
